@@ -1,2 +1,2 @@
 # Camera-Notebooks
-Notebooks to analyze camera data.
+Notebooks to analyze LSST camera data.
